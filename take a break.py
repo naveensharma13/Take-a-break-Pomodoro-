@@ -15,7 +15,7 @@ tmsecs = Time_break * 60
 
 secs = mins * 60
 
-choice =  int(input(" How would do i remind you the break time? \n Choose the number. \n 1) Play a music video for me. \n 2) Open facebook \n"))
+choice =  int(input(" How would do i remind you about the break time? \n Choose the number. \n 1) Play a music video for me. \n 2) Open facebook \n"))
 
 while(work_session != 0):
 
